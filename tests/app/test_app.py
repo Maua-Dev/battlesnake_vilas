@@ -7,6 +7,6 @@ class Test_App:
         
         assert resp == {'apiversion': "1",
            'author': "bvilardi",
-           'color': "#9999",
-           'head': "default",
-           'tail': "default"}
+           'color': "#5a186f",
+           'head': "tiger-king",
+           'tail': "round-bum"}
